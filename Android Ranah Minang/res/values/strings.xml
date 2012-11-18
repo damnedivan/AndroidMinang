@@ -1,0 +1,15 @@
+<resources>
+
+    <string name="app_name">Android Ranah Minang</string>
+    <string name="title">ANDROID RANAH MINANG</string>
+    <string name="menu_settings">Settings</string>
+    <string name="title_activity_main">Android Ranah Minang</string>
+    <string name="description">Thanks for the download :) This is the initial app of Android Ranah Minang Dev Team! Stay connected with us for upcoming apps! See you later ;)</string>
+    <string name="ending">- Android Ranah Minang Dev Team -</string>
+    <string name="hyperlink">https://www.fb.com/groups/AndroidMinang</string>
+    <string name="hyperlink1">https://twitter.com/androidminang</string>
+    <string name="button1">Facebook</string>
+    <string name="button2">Twitter</string>
+    <string name="button3">Site</string>
+
+</resources>
